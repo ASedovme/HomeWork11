@@ -79,7 +79,7 @@ public class Main {
 
 //Задача 3
         System.out.println("Задача 3");
-        int deliveryDistance = 15;
+        int deliveryDistance = 25;
         delivery(deliveryDistance);
 
     }
